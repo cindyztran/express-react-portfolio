@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Rick and Morty Character Search",
+      "live": "https://cindyztran.github.io/rick-and-morty/",
+      "git": "https://github.com/cindyztran/rick-and-morty",
+      "image": "https://github.com/cindyztran/rick-and-morty/raw/master/working-app-2.png"
+    },
+    {
+      "name": "Workout Tracker",
+      "live": "https://czt-workout-tracker.herokuapp.com/",
+      "git": "https://github.com/cindyztran/workout-tracker",
+      "image": "https://github.com/cindyztran/workout-tracker/raw/master/images/landing-page.png"
+    }
+  ]
